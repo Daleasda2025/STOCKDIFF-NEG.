@@ -1,0 +1,16 @@
+{
+    "EndpointId": "INBOUND_SOURCEENDPOINT",
+    "IncludeRequest": true,
+    "Message": [
+        {
+            "MessageType": "STOCKDIFFERENCE",
+            "MessageId": "010020206084",
+            "ItemId": "51273955",
+            "Quantity": -1,
+            "ReasonCode": "AD24",
+            "IlpnId": "75000000000000006208",
+            "UserId": "dale.hunt@asda.co.uk",
+            "ObjectType": "StockDifference"
+        }
+    ]
+}
